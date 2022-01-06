@@ -2,6 +2,7 @@
 
 import click
 import requests
+import parallel
 from typing import List
 
 URL = "http://10.11.99.1/upload"
